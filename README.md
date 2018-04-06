@@ -1,4 +1,4 @@
-# WhyralNetwork
+# whyral.network
 Transforming Social Media Marketing
 Whyral is an AI based decentralized social media influencer marketing and influencer evaluation platform powered by blockchain. A platform connecting brands with social media rockstars.
 
